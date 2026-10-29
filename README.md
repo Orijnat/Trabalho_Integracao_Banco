@@ -2,8 +2,8 @@
 
 Integrantes do grupo:
 
-Ana gheno
-Beatriz Pavao
-Cledivan Steffens
+Ana gheno,
+Beatriz Pavao,
+Cledivan Steffens,
 Mel Biazi
 
