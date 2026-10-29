@@ -1,4 +1,4 @@
-# Trabalho_Integra-o_Banco
+# Trabalho_Integracao_Banco
 
 Integrantes do grupo:
 
